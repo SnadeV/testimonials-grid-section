@@ -16,5 +16,6 @@
 
 .prettierignore
 .idea/
+.sass-cache/
 
 *.iml
